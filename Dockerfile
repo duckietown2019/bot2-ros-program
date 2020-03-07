@@ -1,5 +1,6 @@
 # parameters
-ARG REPO_NAME="<REPO_NAME_HERE>"
+ARG REPO_NAME="bot2-ros-program"
+
 
 # ==================================================>
 # ==> Do not change this code
